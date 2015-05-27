@@ -1,0 +1,3 @@
+This Drupal module is part of the Nexus framework. Implemented in Scientia, and is used for matching taxonomy terms with notations Dewey classifications and CDU. These languages​​, in turn, are matched with LCSH (Library of Congress Subject Headings). It was created by Sandor Dominguez, Amed Leiva and Jose A. Senso
+
+beta 1 version. documentation is coming ...
